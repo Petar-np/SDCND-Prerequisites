@@ -84,7 +84,7 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
     - [ ] [MIT - Introduction to C++](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-096-introduction-to-c-january-iap-2011/)
     - [ ] [Google's C++ Class](https://developers.google.com/edu/c++/)
     - [ ] [Carefully curated list of C++ books](http://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
-    - [ ] [SoloLearn Learn C++](https://www.sololearn.com/Course/CPlusPlus/)
+    - [x] [SoloLearn Learn C++](https://www.sololearn.com/Course/CPlusPlus/)
 
 ## Mathematics
 
